@@ -9,12 +9,11 @@
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>2.7.5</version>
     </parent>
+      <groupId>lina</groupId>
+    <artifactId>good</artifactId>
+    <version>1.0</version>
     
-    <groupId>tn.esprit.spring</groupId>
-    <artifactId>kaddem</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
-    <name>kaddem</name>
-    <description>kaddem</description>
+   
     
     <properties>
         <java.version>1.8</java.version>
